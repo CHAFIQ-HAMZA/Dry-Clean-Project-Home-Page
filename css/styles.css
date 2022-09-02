@@ -11328,8 +11328,7 @@ p {
 }
 
 #mainNav {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding: 0px 0px 40px 0px;
   background-color: #212529;
 }
 #mainNav .navbar-toggler {
